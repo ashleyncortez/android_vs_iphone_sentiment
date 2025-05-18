@@ -22,7 +22,16 @@ This project uses Reddit posts to compare public sentiment toward Android and iP
 - VADER SentimentIntensityAnalyzer
 
 ## 📁 Project Structure
-
+android_vs_iphone_sentiment/
+│
+├── data/
+│ └── reddit_sentiment.csv
+│
+├── notebooks/
+│ └── Android vs iPhone Sentiment.ipynb
+│ └── README.md
+├── src/
+│ └── reddit_sentiment.py
 
 
 ## 📌 Created By
